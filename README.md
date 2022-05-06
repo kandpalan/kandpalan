@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kandpalan
 - 👀 I’m interested in Linux and Automation.
-- 🌱 I’m currently learning Docker and Kubernetes with AWS.
+- 🌱 I’m currently learning Ansible, Docker and Kubernetes with AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
