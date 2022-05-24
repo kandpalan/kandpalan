@@ -1,4 +1,4 @@
-- 👋 Hi, this is Ananaya Kandpal.
+- 👋 Hi, This is Ananaya Kandpal.
 - 👀 I’m interested in Linux and Automation.
 - 🌱 I’m currently learning Ansible, Docker and Kubernetes with AWS.
 <!---
