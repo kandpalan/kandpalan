@@ -1,6 +1,6 @@
 - 👋 Hi, This is Ananaya Kandpal.
 - 👀 I’m interested in Automation and devops.
-- 🌱 I’m currently learning Ansible, Docker and Kubernetes with AWS.
+- 🌱 I’m currently using Ansible, Docker and Kubernetes with AWS.
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
